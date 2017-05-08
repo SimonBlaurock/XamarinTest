@@ -9,6 +9,7 @@ namespace XamarinTest
 			InitializeComponent();
 
 			MainPage = new XamarinTestPage();
+			//hallo :)
 		}
 
 		protected override void OnStart()
