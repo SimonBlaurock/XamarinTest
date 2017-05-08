@@ -11,7 +11,7 @@ namespace XamarinTest
 			MainPage = new XamarinTestPage();
 			// ok das ist ein weiterer Test
 			//hallo
-			//hallo :)
+			//hallo :) 
 			//asödlkfj
 		}
 
