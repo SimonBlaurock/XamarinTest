@@ -1,4 +1,4 @@
-﻿using Xamarin.Forms;
+using Xamarin.Forms;
 
 namespace XamarinTest
 {
@@ -11,6 +11,8 @@ namespace XamarinTest
 			MainPage = new XamarinTestPage();
 			// ok das ist ein weiterer Test
 			//hallo
+			//hallo :)
+			//asödlkfj
 		}
 
 		protected override void OnStart()
